@@ -10,7 +10,7 @@ A program to explore and extract the contents of Kanzi Studio kzb files.
 Folders are shaded in green.
 
 ## Compatibility
-When researching the formats, I did not have access to Kanzi Studio. I only had access to a few kzb files. Therefore, compatibility is limited.
+While researching the formats, I did not have access to Kanzi Studio. I only had access to a few kzb files. Therefore, compatibility is limited.
 
 *If you face a problem, please create an issue and attach the raw data of the file.*
 
